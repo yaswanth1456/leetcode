@@ -5,7 +5,7 @@ import java.util.LinkedHashMap;
 
 public class CountingCharsINSentence {
 	String Sentence="hello couunting chars in sentence is easy";
-	
+	//this is trail
 	
 	public HashMap<Character,Integer> countCharsInSentence(){
 		LinkedHashMap<Character,Integer> hmp = new LinkedHashMap<Character,Integer>();
