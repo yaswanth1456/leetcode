@@ -10,7 +10,7 @@ public class CountingLargestIntigerSequence {
 	public void sequenceCounting() {
 		for (int i = 0; i < array.length - 1; i++) {
 			counter++;
-			
+			//for sake of branch
 
 				for (j = i; j <= counter; j++) {
 					sum = sum + array[j];
